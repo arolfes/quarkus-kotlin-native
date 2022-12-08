@@ -1,0 +1,1 @@
+/home/arl/sources/quarkus/quarkus-kotlin-native/build/classes/kotlin/main/com/github/GreetingApplication.class:/home/arl/sources/quarkus/quarkus-kotlin-native/build/classes/kotlin/main/com/github/GreetingApplicationKt.class:/home/arl/sources/quarkus/quarkus-kotlin-native/build/classes/kotlin/main/com/github/GreetingResource.class
